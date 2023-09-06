@@ -1,3 +1,13 @@
+* {
+    font-size: 16px;
+}
+
 label,input{
+    appearance: none;
     display: block;
+}
+fieldset {
+    display: flex;
+    gap: 4rem;
+    border: 0;
 }
